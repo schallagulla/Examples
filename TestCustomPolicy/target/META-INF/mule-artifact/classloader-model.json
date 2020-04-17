@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "artifactCoordinates": {
+    "groupId": "a713ccc4-c6cc-47a3-b56f-aeddcce41310",
+    "artifactId": "TestCustomPolicy",
+    "version": "1.0.0-SNAPSHOT",
+    "type": "jar",
+    "classifier": "mule-policy"
+  },
+  "dependencies": []
+}
